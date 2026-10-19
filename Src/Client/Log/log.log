@@ -1,0 +1,199 @@
+2026-10-15 16:40:15,230 [ 1] INFO  Unity: LoadingManager start
+2026-10-15 16:40:15,236 [ 1] INFO  Unity: MapServiceInit
+2026-10-15 16:40:15,237 [ 1] INFO  Unity: UserServiceInit
+2026-10-15 16:40:17,696 [ 1] INFO  Unity: UserLoginRequest::user :1 psw:1
+2026-10-15 16:40:17,697 [ 1] INFO  Unity: ConnectToServer() Start 
+2026-10-15 16:40:17,697 [ 1] INFO  Unity: DoConnect
+2026-10-15 16:40:17,699 [ 1] INFO  Unity: NetClient.DoConnect on 127.0.0.1:8000
+2026-10-15 16:40:17,699 [ 1] INFO  Unity: Connect[0] to server 127.0.0.1:8000
+
+2026-10-15 16:40:17,701 [ 1] INFO  Unity: LoadingMesager::OnGameServerConnect :0 reason:Success
+2026-10-15 16:40:17,765 [ 1] INFO  Unity: OnLogin:Success [None]
+2026-10-15 16:40:17,766 [ 1] INFO  Unity: LoginSucces:1,1
+2026-10-15 16:40:17,769 [ 1] INFO  Unity: LoadLevel: CharSelect
+2026-10-15 16:40:17,837 [ 1] INFO  Unity: LevelLoadCompleted:1
+2026-10-15 16:40:17,838 [ 1] INFO  Unity: InitCharacterSelect
+2026-10-15 16:40:17,839 [ 1] INFO  Unity: Select Char:[1]11[Warrior]
+2026-10-15 16:40:17,839 [ 1] INFO  Unity: DataManager > DataManager()
+2026-10-15 16:40:18,473 [ 1] INFO  Unity: UserGameEnterRequest::characterId :0
+2026-10-15 16:40:18,488 [ 1] INFO  Unity: OnGameEnter:Success [None]
+2026-10-15 16:40:18,489 [ 1] INFO  Unity: ItemManager:Init[Id:1,Count:1]
+2026-10-15 16:40:18,490 [ 1] INFO  Unity: ItemManager:Init[Id:2,Count:2]
+2026-10-15 16:40:18,490 [ 1] INFO  Unity: ItemManager:Init[Id:4,Count:3]
+2026-10-15 16:40:18,500 [ 1] INFO  Unity: InitBagManager
+2026-10-15 16:40:18,502 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,503 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,503 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,504 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,504 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,505 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,505 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,505 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,506 [ 1] INFO  Unity: EquipmentManager:Init[Assets.Scripts.Models.Equipment]
+2026-10-15 16:40:18,510 [ 1] INFO  Unity: OnMapCharacterEnter:Map:1 Count:1
+2026-10-15 16:40:18,512 [ 1] INFO  Unity: AddCharacter:5:11 Map:1 Entity:(5:pos:(3937,4681,816),dir:(100,0,0),spd:0
+2026-10-15 16:40:18,514 [ 1] INFO  Unity: LoadLevel: MainCity
+2026-10-15 16:40:18,798 [ 1] WARN  Unity: No mesh data available for mesh Sphere001 on particle system fx_portal. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+
+2026-10-15 16:40:18,798 [ 1] WARN  Unity: No mesh data available for mesh Sphere001 on particle system fx_portal. Make sure Read/Write Enabled is set in the importer to work on the particle system renderer
+
+2026-10-15 16:40:18,859 [ 1] INFO  Unity: CreateCharacterObject：5
+2026-10-15 16:40:18,860 [ 1] INFO  Unity: AddCharacterNameBar：ID5
+2026-10-15 16:40:18,861 [ 1] INFO  Unity: UpdateAvatar
+2026-10-15 16:40:18,879 [ 1] INFO  Unity: LevelLoadCompleted:1
+2026-10-15 16:40:18,883 [ 1] INFO  Unity: 当前地图资源：buluzheng
+2026-10-15 16:40:19,707 [ 1] INFO  Unity: ClickNpcID:1
+2026-10-15 16:40:20,221 [ 1] INFO  Unity: UIManager::Start Add UIResource
+2026-10-15 16:40:20,222 [ 1] INFO  Unity: UI_Show::UIDialogBox
+2026-10-15 16:40:21,894 [ 1] INFO  Unity: MoveForward
+2026-10-15 16:40:21,895 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(3937,4681,816) DIR:(100,0,0) SPD:800 
+2026-10-15 16:40:21,898 [ 1] INFO  Unity: SetPosition:(3950, 4681, 816)
+2026-10-15 16:40:21,899 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(3950,4681,816) DIR:(100,0,0) SPD:800 
+2026-10-15 16:40:22,145 [ 1] INFO  Unity: SetPosition:(4151, 4681, 816)
+2026-10-15 16:40:22,145 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4151,4681,816) DIR:(100,0,0) SPD:800 
+2026-10-15 16:40:22,180 [ 1] INFO  Unity: SetDirection:(98, -19, 0)
+2026-10-15 16:40:22,180 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4177,4681,816) DIR:(98,-19,0) SPD:800 
+2026-10-15 16:40:22,278 [ 1] INFO  Unity: SetDirection:(93, -37, 0)
+2026-10-15 16:40:22,278 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4255,4663,816) DIR:(93,-37,0) SPD:800 
+2026-10-15 16:40:22,360 [ 1] INFO  Unity: SetDirection:(85, -53, 0)
+2026-10-15 16:40:22,360 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4315,4638,816) DIR:(85,-53,0) SPD:800 
+2026-10-15 16:40:22,427 [ 1] INFO  Unity: SetPosition:(4364, 4613, 816)
+2026-10-15 16:40:22,427 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4364,4613,816) DIR:(85,-53,0) SPD:800 
+2026-10-15 16:40:22,444 [ 1] INFO  Unity: SetDirection:(74, -67, 0)
+2026-10-15 16:40:22,444 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4375,4606,816) DIR:(74,-67,0) SPD:800 
+2026-10-15 16:40:22,546 [ 1] INFO  Unity: SetDirection:(59, -81, 0)
+2026-10-15 16:40:22,546 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4435,4552,816) DIR:(59,-81,0) SPD:800 
+2026-10-15 16:40:22,647 [ 1] INFO  Unity: SetDirection:(42, -91, 0)
+2026-10-15 16:40:22,647 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4483,4486,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,732 [ 1] INFO  Unity: SetPosition:(4508, 4434, 816)
+2026-10-15 16:40:22,732 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4508,4434,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,749 [ 1] INFO  Unity: SetPosition:(4513, 4430, 816)
+2026-10-15 16:40:22,750 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4513,4430,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,761 [ 1] INFO  Unity: SetPosition:(4517, 4426, 816)
+2026-10-15 16:40:22,761 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4517,4426,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,779 [ 1] INFO  Unity: SetPosition:(4522, 4421, 816)
+2026-10-15 16:40:22,781 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4522,4421,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,797 [ 1] INFO  Unity: SetPosition:(4526, 4417, 816)
+2026-10-15 16:40:22,797 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4526,4417,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,815 [ 1] INFO  Unity: SetPosition:(4531, 4412, 816)
+2026-10-15 16:40:22,815 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4531,4412,816) DIR:(42,-91,0) SPD:800 
+2026-10-15 16:40:22,833 [ 1] INFO  Unity: SetDirection:(25, -97, 0)
+2026-10-15 16:40:22,834 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4537,4400,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,835 [ 1] INFO  Unity: SetPosition:(4535, 4408, 816)
+2026-10-15 16:40:22,835 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4535,4408,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,846 [ 1] INFO  Unity: SetPosition:(4537, 4406, 816)
+2026-10-15 16:40:22,846 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4537,4406,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,864 [ 1] INFO  Unity: SetPosition:(4539, 4404, 816)
+2026-10-15 16:40:22,865 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4539,4404,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,882 [ 1] INFO  Unity: SetPosition:(4541, 4402, 816)
+2026-10-15 16:40:22,883 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4541,4402,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,900 [ 1] INFO  Unity: SetPosition:(4543, 4400, 816)
+2026-10-15 16:40:22,901 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4543,4400,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,913 [ 1] INFO  Unity: SetPosition:(4545, 4398, 816)
+2026-10-15 16:40:22,913 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4545,4398,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,929 [ 1] INFO  Unity: SetPosition:(4547, 4396, 816)
+2026-10-15 16:40:22,930 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4547,4396,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,949 [ 1] INFO  Unity: SetPosition:(4549, 4394, 816)
+2026-10-15 16:40:22,949 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4549,4394,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,960 [ 1] INFO  Unity: SetPosition:(4551, 4391, 816)
+2026-10-15 16:40:22,961 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4551,4391,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,979 [ 1] INFO  Unity: SetPosition:(4553, 4389, 816)
+2026-10-15 16:40:22,979 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4553,4389,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:22,996 [ 1] INFO  Unity: SetPosition:(4555, 4387, 816)
+2026-10-15 16:40:22,997 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4555,4387,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,015 [ 1] INFO  Unity: SetPosition:(4557, 4385, 816)
+2026-10-15 16:40:23,015 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4557,4385,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,033 [ 1] INFO  Unity: SetPosition:(4560, 4383, 816)
+2026-10-15 16:40:23,033 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4560,4383,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,050 [ 1] INFO  Unity: SetPosition:(4562, 4381, 816)
+2026-10-15 16:40:23,050 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4562,4381,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,062 [ 1] INFO  Unity: SetPosition:(4564, 4379, 816)
+2026-10-15 16:40:23,062 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4564,4379,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,080 [ 1] INFO  Unity: SetPosition:(4566, 4377, 816)
+2026-10-15 16:40:23,080 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4566,4377,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,098 [ 1] INFO  Unity: SetPosition:(4568, 4375, 816)
+2026-10-15 16:40:23,098 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4568,4375,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,117 [ 1] INFO  Unity: SetPosition:(4570, 4373, 816)
+2026-10-15 16:40:23,117 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4570,4373,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,133 [ 1] INFO  Unity: SetPosition:(4572, 4371, 816)
+2026-10-15 16:40:23,134 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4572,4371,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,147 [ 1] INFO  Unity: SetPosition:(4574, 4369, 816)
+2026-10-15 16:40:23,147 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4574,4369,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,165 [ 1] INFO  Unity: SetPosition:(4576, 4367, 816)
+2026-10-15 16:40:23,165 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4576,4367,816) DIR:(25,-97,0) SPD:800 
+2026-10-15 16:40:23,178 [ 1] INFO  Unity: SetDirection:(43, -90, 0)
+2026-10-15 16:40:23,179 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4579,4354,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,180 [ 1] INFO  Unity: SetPosition:(4578, 4365, 816)
+2026-10-15 16:40:23,181 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4578,4365,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,198 [ 1] INFO  Unity: SetPosition:(4582, 4360, 816)
+2026-10-15 16:40:23,198 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4582,4360,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,216 [ 1] INFO  Unity: SetPosition:(4587, 4356, 816)
+2026-10-15 16:40:23,216 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4587,4356,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,234 [ 1] INFO  Unity: SetPosition:(4592, 4351, 816)
+2026-10-15 16:40:23,234 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4592,4351,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,246 [ 1] INFO  Unity: SetPosition:(4596, 4347, 816)
+2026-10-15 16:40:23,246 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4596,4347,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,262 [ 1] INFO  Unity: SetPosition:(4601, 4342, 816)
+2026-10-15 16:40:23,264 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4601,4342,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,280 [ 1] INFO  Unity: SetDirection:(60, -80, 0)
+2026-10-15 16:40:23,281 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4607,4330,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,282 [ 1] INFO  Unity: SetPosition:(4605, 4337, 816)
+2026-10-15 16:40:23,282 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4605,4337,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,317 [ 1] INFO  Unity: SetPosition:(4619, 4323, 816)
+2026-10-15 16:40:23,317 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4619,4323,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,348 [ 1] INFO  Unity: SetPosition:(4634, 4309, 816)
+2026-10-15 16:40:23,349 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4634,4309,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,379 [ 1] INFO  Unity: SetPosition:(4648, 4295, 816)
+2026-10-15 16:40:23,380 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4648,4295,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,416 [ 1] INFO  Unity: SetPosition:(4662, 4281, 816)
+2026-10-15 16:40:23,416 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4662,4281,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,446 [ 1] INFO  Unity: SetPosition:(4676, 4267, 816)
+2026-10-15 16:40:23,446 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4676,4267,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,483 [ 1] INFO  Unity: SetPosition:(4688, 4255, 816)
+2026-10-15 16:40:23,483 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4688,4255,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,501 [ 1] INFO  Unity: SetPosition:(4695, 4249, 816)
+2026-10-15 16:40:23,501 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4695,4249,816) DIR:(60,-80,0) SPD:800 
+2026-10-15 16:40:23,651 [ 1] INFO  Unity: SetDirection:(43, -90, 0)
+2026-10-15 16:40:23,651 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4767,4150,816) DIR:(43,-90,0) SPD:800 
+2026-10-15 16:40:23,749 [ 1] INFO  Unity: SetDirection:(24, -97, 0)
+2026-10-15 16:40:23,750 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4803,4078,816) DIR:(24,-97,0) SPD:800 
+2026-10-15 16:40:23,833 [ 1] INFO  Unity: SetDirection:(7, -100, 0)
+2026-10-15 16:40:23,834 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4818,4013,816) DIR:(7,-100,0) SPD:800 
+2026-10-15 16:40:23,918 [ 1] INFO  Unity: SetDirection:(-11, -99, 0)
+2026-10-15 16:40:23,919 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4823,3948,816) DIR:(-11,-99,0) SPD:800 
+2026-10-15 16:40:24,015 [ 1] INFO  Unity: SetPosition:(4812, 3871, 816)
+2026-10-15 16:40:24,015 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4812,3871,816) DIR:(-11,-99,0) SPD:800 
+2026-10-15 16:40:24,031 [ 1] INFO  Unity: SetDirection:(-28, -96, 0)
+2026-10-15 16:40:24,031 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4811,3858,816) DIR:(-28,-96,0) SPD:800 
+2026-10-15 16:40:24,333 [ 1] INFO  Unity: SetDirection:(-46, -89, 0)
+2026-10-15 16:40:24,334 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4739,3624,816) DIR:(-46,-89,0) SPD:800 
+2026-10-15 16:40:24,400 [ 1] INFO  Unity: SetPosition:(4719, 3580, 816)
+2026-10-15 16:40:24,400 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4719,3580,816) DIR:(-46,-89,0) SPD:800 
+2026-10-15 16:40:24,465 [ 1] INFO  Unity: SetDirection:(-62, -79, 0)
+2026-10-15 16:40:24,466 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4695,3532,816) DIR:(-62,-79,0) SPD:800 
+2026-10-15 16:40:24,566 [ 1] INFO  Unity: SetDirection:(-76, -65, 0)
+2026-10-15 16:40:24,567 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4647,3466,816) DIR:(-76,-65,0) SPD:800 
+2026-10-15 16:40:24,651 [ 1] INFO  Unity: SetDirection:(-86, -50, 0)
+2026-10-15 16:40:24,651 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4597,3421,816) DIR:(-86,-50,0) SPD:800 
+2026-10-15 16:40:24,666 [ 1] INFO  Unity: SetPosition:(4582, 3419, 816)
+2026-10-15 16:40:24,667 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4582,3419,816) DIR:(-86,-50,0) SPD:800 
+2026-10-15 16:40:24,767 [ 1] INFO  Unity: SetDirection:(-94, -33, 0)
+2026-10-15 16:40:24,767 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4516,3377,816) DIR:(-94,-33,0) SPD:800 
+2026-10-15 16:40:24,966 [ 1] INFO  Unity: Stop
+2026-10-15 16:40:24,967 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4360,3329,816) DIR:(-94,-33,0) SPD:0 
+2026-10-15 16:40:24,968 [ 1] INFO  Unity: SetPosition:(4375, 3330, 816)
+2026-10-15 16:40:24,968 [ 1] INFO  Unity: SendMapEntitySyncRequest：ID:5 POS:(4375,3330,816) DIR:(-94,-33,0) SPD:0 
+2026-10-15 16:40:25,175 [ 1] INFO  Unity: ClickNpcID:3
+2026-10-15 16:40:25,696 [ 1] INFO  Unity: UI_Show::UIDialogBox
+2026-10-15 16:40:27,740 [ 1] INFO  Unity: ClickNpcID:3
+2026-10-15 16:40:28,126 [ 1] INFO  Unity: ClickNpcID:3
+2026-10-15 16:40:28,736 [ 1] INFO  Unity: ClickNpcID:3
+2026-10-15 16:40:28,743 [ 1] INFO  Unity: UI_Show::UIDialogBox
+2026-10-15 16:40:30,528 [ 1] INFO  Unity: UI_Show::UIQuest
+2026-10-15 16:40:36,395 [ 1] INFO  Unity: Character_5_11 OnDestroy :ID:5 POS:(4375, 3330, 816) DIR:(-94, -33, 0) SPD:0 
+2026-10-15 16:40:36,397 [ 1] INFO  Unity: OnDestroy NetworkManager.
+2026-10-15 16:40:36,397 [ 1] WARN  Unity: CloseConnection(), errorCode: 1007
+UnityEngine.Debug:LogWarning(Object)
+Network.NetClient:CloseConnection(Int32) (at Assets/Scripts/Network/NetClient.cs:181)
+Network.NetClient:OnDestroy() (at Assets/Scripts/Network/NetClient.cs:176)
+
