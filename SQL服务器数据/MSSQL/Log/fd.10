@@ -1,0 +1,14 @@
+2026-10-16 08:43:20.830	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 296 Starting msftefd.exe
+2026-10-16 08:43:20.830	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv C:\Program Files\Microsoft SQL Server\MSSQL14.MMORPG\MSSQL\Binn\fdhost.exe
+2026-10-16 08:43:20.832	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv MSSQL14.MMORPGGe148305ef02c8f4dd3fb03afae3d7afab4d9191l
+2026-10-16 08:43:20.832	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv MSSQL14.MMORPG
+2026-10-16 08:43:20.832	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv MSSQL14.MMORPG
+2026-10-16 08:43:20.836	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 40
+2026-10-16 08:43:20.836	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 
+2026-10-16 08:43:20.836	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 16384
+2026-10-16 08:43:20.836	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv M
+2026-10-16 08:43:20.836	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 0
+2026-10-16 08:43:20.838	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 
+2026-10-16 08:43:20.838	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 
+2026-10-16 08:43:20.838	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 339 argc 12, argv 
+2026-10-16 08:43:20.844	 File [sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 406 msFteFD has started

@@ -1,0 +1,150 @@
+{
+  "1": {
+    "1": {
+      "ID": 1,
+      "Name": "小型治疗药水",
+      "Inventory": 99,
+      "Num": 1,
+      "Price": 200,
+      "State": 1,
+      "Description": "使用后立即回复500生命值（战斗状态）"
+    },
+    "2": {
+      "ID": 2,
+      "Name": "小型法力药水",
+      "Inventory": 99,
+      "Num": 1,
+      "Price": 200,
+      "State": 1,
+      "Description": "使用后立即回复500法力值（战斗状态）"
+    },
+    "3": {
+      "ID": 3,
+      "Name": "面包",
+      "Inventory": 99,
+      "Num": 1,
+      "Price": 200,
+      "State": 1,
+      "Description": "使用后5秒内回复1000生命值（非战斗状态）"
+    },
+    "4": {
+      "ID": 4,
+      "Name": "海鲜汤",
+      "Inventory": 99,
+      "Num": 1,
+      "Price": 200,
+      "State": 1,
+      "Description": "使用后5秒内回复1000法力值（非战斗状态）"
+    }
+  },
+  "2": {
+    "1": {
+      "ID": 1,
+      "Name": "圣道剑",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "圣光凝铸剑锋，斩邪祟护正道安宁"
+    },
+    "2": {
+      "ID": 10,
+      "Name": "金属凯",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "铁片连环相扣，坚实抵挡物理伤害"
+    },
+    "3": {
+      "ID": 3,
+      "Name": "迅捷之弓",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "轻弓蓄势如风，箭矢瞬发难躲闪"
+    },
+    "4": {
+      "ID": 12,
+      "Name": "射手服",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "轻便猎装剪裁，行动迅捷不碍拉弓"
+    },
+    "5": {
+      "ID": 5,
+      "Name": "贤者之杖",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "杖头蕴藏秘法，引动元素增幅术法"
+    },
+    "6": {
+      "ID": 14,
+      "Name": "初级袍",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "粗布缝制法袍，小幅提升法术威能"
+    },
+    "7": {
+      "ID": 7,
+      "Name": "武士头盔",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "精铁锻铸护颅，沙场抵御利刃重击"
+    },
+    "8": {
+      "ID": 8,
+      "Name": "射手头巾",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "轻巾束发防风，凝神锁定远方猎物"
+    },
+    "9": {
+      "ID": 9,
+      "Name": "魔法帽",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "缀满星纹符文，汇聚魔力强化法术"
+    },
+    "10": {
+      "ID": 16,
+      "Name": "重甲靴",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "厚铁加固靴底，负重前行稳立战阵"
+    },
+    "11": {
+      "ID": 17,
+      "Name": "迅捷靴",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "轻靴踏风而行，提升移动闪避速度"
+    },
+    "12": {
+      "ID": 18,
+      "Name": "魔力靴",
+      "Inventory": 1,
+      "Num": 1,
+      "Price": 300,
+      "State": 1,
+      "Description": "内嵌魔晶，行走间缓缓回聚魔力"
+    }
+  }
+}
